@@ -68,6 +68,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 ### Web
 
 - [Great guide to HTML/CSS](https://www.internetingishard.com/)
+- [Design](https://twitter.com/i/events/994601867987619840?lang=en)
 - [The Front-End Features You Missed](https://betterprogramming.pub/the-front-end-features-you-might-have-missed-38f3ad1360a9)
 - [Sign-in form best practices](https://web.dev/sign-in-form-best-practices/)
 - [How to design a favicon](https://www.creativebloq.com/illustrator/create-perfect-favicon-12112760) (although you can probably just use an .svg now)
