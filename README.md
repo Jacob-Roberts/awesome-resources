@@ -145,6 +145,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [How to Secure Nginx with Let's Encrypt CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-centos-7)
 - [Understanding Nginx Proxying](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 - [How to delete a Certbot SSL Certificate](https://medium.com/@mhagemann/correct-way-to-delete-a-certbot-ssl-certificate-e8ee123e6e01)
+- [Subdomain configuration](nginx/web-server-configuration.md)
 
 ### Dynamodb
 
