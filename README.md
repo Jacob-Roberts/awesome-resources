@@ -35,6 +35,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Financial Independence Flowchart](https://www.reddit.com/r/personalfinance/comments/4gdlu9/how_to_prioritize_spending_your_money_a_flowchart/)
 - [Morning Brew Email Newsletter](https://link.morningbrew.com/click/23341498.1837890/aHR0cHM6Ly93d3cubW9ybmluZ2JyZXcuY29tL2RhaWx5L3IvP2tpZD1hZGM1OGY/5f8496268f047f47312d3f65B8e00c413)
 - [Financial Term Dictionary](https://www.investopedia.com/financial-term-dictionary-4769738)
+- [Why you can't time the market](https://www.personalfinanceclub.com/time-the-market-game)
 
 ## Privacy
 
