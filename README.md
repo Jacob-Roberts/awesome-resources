@@ -125,6 +125,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Testing a middleware](http://www.inanzzz.com/index.php/post/xgod/testing-a-middleware-within-golang)
 - [Portable apps with next.js and go](https://v0x.nl/articles/portable-apps-go-nextjs)
+- [Don't make this mistake with go web servers](https://ryanc118.medium.com/dont-make-this-mistake-with-go-http-servers-bd313baee41)
 
 #### Go Samples
 
