@@ -82,6 +82,8 @@ It is a collection of concise write-ups on small things I learn day to day acros
 ### JavaScript
 
 - [Fireship.io courses](https://fireship.io/) / [YouTube](https://www.youtube.com/c/Fireship)
+- [Let vs Const](/javascript/let-vs-const.md)
+- [For of loops](/javascript/for-of.md)
 
 ### React
 
