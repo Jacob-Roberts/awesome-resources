@@ -90,6 +90,10 @@ It is a collection of concise write-ups on small things I learn day to day acros
 
 - [Common beginner mistakes](https://fettblog.eu/how-not-to-learn-typescript/)
 
+#### TSX
+
+- [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+
 ### React
 
 - [The React beginners handbook](https://www.freecodecamp.org/news/react-beginner-handbook) This is much better than the tutorial on react's website.
