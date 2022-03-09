@@ -16,6 +16,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
   - [Docker](#docker)
   - [Web](#web)
   - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
   - [React](#react)
     - [Testing](#testing)
   - [Security](#security)
@@ -84,6 +85,10 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Fireship.io courses](https://fireship.io/) / [YouTube](https://www.youtube.com/c/Fireship)
 - [Let vs Const](/javascript/let-vs-const.md)
 - [For of loops](/javascript/for-of.md)
+
+### TypeScript
+
+- [Common beginner mistakes](https://fettblog.eu/how-not-to-learn-typescript/)
 
 ### React
 
