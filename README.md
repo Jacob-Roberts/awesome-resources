@@ -70,6 +70,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 ### Web
 
 - [Great guide to HTML/CSS](https://www.internetingishard.com/)
+- [CSS Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [Design](https://twitter.com/i/events/994601867987619840?lang=en)
 - [The Front-End Features You Missed](https://betterprogramming.pub/the-front-end-features-you-might-have-missed-38f3ad1360a9)
 - [Sign-in form best practices](https://web.dev/sign-in-form-best-practices/)
@@ -98,6 +99,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 
 - [The React beginners handbook](https://www.freecodecamp.org/news/react-beginner-handbook) This is much better than the tutorial on react's website.
 - Don't use React class components. Go straight to learning [hooks](https://reactjs.org/docs/hooks-intro.html).
+- [React Props](https://www.robinwieruch.de/react-pass-props-to-component/)
 - [Kent C Dodds Blog](https://kentcdodds.com/)
 - [Log Rocket Blog](https://blog.logrocket.com/)
 - [Fireship.io courses](https://fireship.io/) / [YouTube](https://www.youtube.com/c/Fireship)
