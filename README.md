@@ -123,6 +123,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 ### Security
 
 - [NIST Password Guidelines and Best Practices for 2020](https://auth0.com/blog/dont-pass-on-the-new-nist-password-guidelines/)
+- [OAuth2.0 modern guide](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth)
 
 ### API (OpenAPI)
 
