@@ -119,6 +119,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [React Testing Library Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
 - [What query should I use?](https://testing-library.com/docs/guide-which-query)
 - [How to test components that use React.Lazy and Suspense](https://www.youtube.com/watch?v=lfb5jvHq9c4)
+- [How to mock correctly](https://blog.logrocket.com/testing-react-apps-jest-react-testing-library/#mocking-with-react-and-jest)
 
 ### Security
 
