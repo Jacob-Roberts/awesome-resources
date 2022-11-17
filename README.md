@@ -104,7 +104,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Log Rocket Blog](https://blog.logrocket.com/)
 - [Fireship.io courses](https://fireship.io/) / [YouTube](https://www.youtube.com/c/Fireship)
 - [How to structure React apps](https://blog.usejournal.com/how-i-structure-my-react-apps-86e897054593)
-- [Synchronizing vs Lifecycle. Why syncing is a better mental model](https://epicreact.dev/myths-about-useeffect/)
+- [Synchronizing vs Lifecycle. Why syncing is a better mental model](https://epicreact.dev/myths-about-useeffect/) this one is good too (https://kentcdodds.com/blog/react-hooks-pitfalls)
 - [Don't put that in React State](https://kentcdodds.com/blog/dont-sync-state-derive-it). Here is [another article](https://medium.com/@harshit-jain/dont-put-that-in-react-state-thinking-in-react-4f989400c973?source=linkShare-768b7931d0ca-1621452020)
 - [6 tips for better react performance](https://itnext.io/6-tips-for-better-react-performance-4329d12c126b?source=linkShare-768b7931d0ca-1621451945)
 - [Using React to upgrade your UX](https://levelup.gitconnected.com/master-ux-with-react-in-2020-four-ways-to-upgrade-your-react-app-user-experience-a053b3ffbf59)
