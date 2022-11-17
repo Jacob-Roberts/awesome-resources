@@ -97,6 +97,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 
 ### React
 
+- The best intro to react are the [new Beta Docs](https://beta.reactjs.org)
 - [The React beginners handbook](https://www.freecodecamp.org/news/react-beginner-handbook) This is much better than the tutorial on react's website.
 - Don't use React class components. Go straight to learning [hooks](https://reactjs.org/docs/hooks-intro.html).
 - [React Props](https://www.robinwieruch.de/react-pass-props-to-component/)
