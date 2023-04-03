@@ -127,10 +127,16 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [NIST Password Guidelines and Best Practices for 2020](https://auth0.com/blog/dont-pass-on-the-new-nist-password-guidelines/)
 - [OAuth2.0 modern guide](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth)
 
-### API (OpenAPI)
+### API
+
+- [Idempotency part 1](https://brandur.org/http-transactions)
+- [Idempotency part 2](https://brandur.org/idempotency-keys)
+
+#### OpenAPI
 
 - [An Introduction to OpenAPI](https://betterprogramming.pub/4-use-cases-of-openapi-which-are-good-to-know-1a041f4ad71e)
 - [A visual guide to what's different between OpenAPI 2 and 3](https://blog.readme.com/an-example-filled-guide-to-swagger-3-2/)
+
 
 ### Go
 
