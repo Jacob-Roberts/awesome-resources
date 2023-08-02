@@ -150,6 +150,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Portable apps with next.js and go](https://v0x.nl/articles/portable-apps-go-nextjs)
 - [Don't make this mistake with go web servers](https://ryanc118.medium.com/dont-make-this-mistake-with-go-http-servers-bd313baee41)
 - [Go Localisation](https://go.dev/blog/matchlang)
+- [Unit tests and fire and forget go routines](https://jeffy-mathew.medium.com/unit-testing-and-mock-calls-inside-goroutines-7a19b853e084)
 
 #### Go Samples
 
