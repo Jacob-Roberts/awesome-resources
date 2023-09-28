@@ -49,6 +49,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [12 Factor App Guidelines](https://12factor.net/)
 - [Create beautiful project badges](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 - [Security Headers Check](https://securityheaders.com/)
+- [How to load your .env into the current shell natively](https://www.cicoria.com/loading-env-dotenv-using-bash-or-zsh/)
 
 ### Git
 
