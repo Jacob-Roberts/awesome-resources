@@ -98,7 +98,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 
 ### React
 
-- The best intro to react are the [new Beta Docs](https://beta.reactjs.org)
+- The best intro to react is the [new react.dev site](https://react.dev/)
 - [The React beginners handbook](https://www.freecodecamp.org/news/react-beginner-handbook) This is much better than the tutorial on react's website.
 - Don't use React class components. Go straight to learning [hooks](https://reactjs.org/docs/hooks-intro.html).
 - [React Props](https://www.robinwieruch.de/react-pass-props-to-component/)
@@ -112,6 +112,10 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Using React to upgrade your UX](https://levelup.gitconnected.com/master-ux-with-react-in-2020-four-ways-to-upgrade-your-react-app-user-experience-a053b3ffbf59)
 - [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/)
 - [Use absolute paths in a React app](https://spin.atomicobject.com/2017/10/07/absolute-paths-javascript/)
+
+#### Server Components
+
+- [Josh W Comeau's RSC visual explainer](https://www.joshwcomeau.com/react/server-components)
 
 #### Testing
 
