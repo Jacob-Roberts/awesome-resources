@@ -92,6 +92,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 ### TypeScript
 
 - [Common beginner mistakes](https://fettblog.eu/how-not-to-learn-typescript/)
+- [Check published packages types](https://arethetypeswrong.github.io/)
 
 #### TSX
 
