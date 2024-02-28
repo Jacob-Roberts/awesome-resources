@@ -77,6 +77,7 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Sign-in form best practices](https://web.dev/sign-in-form-best-practices/)
 - [How to design a favicon](https://www.creativebloq.com/illustrator/create-perfect-favicon-12112760) (although you can probably just use an .svg now)
 - [100vh in safari](https://www.bram.us/2020/05/06/100vh-in-safari-on-ios/)
+- [Responsive Image lint](https://ausi.github.io/respimagelint/)
 
 #### Resources
 
