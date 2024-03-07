@@ -141,8 +141,11 @@ It is a collection of concise write-ups on small things I learn day to day acros
 
 #### OpenAPI
 
+- [API's you won't hate](https://apisyouwonthate.com/blog/how-to-build-a-perfect-api-description/)
 - [An Introduction to OpenAPI](https://betterprogramming.pub/4-use-cases-of-openapi-which-are-good-to-know-1a041f4ad71e)
 - [A visual guide to what's different between OpenAPI 2 and 3](https://blog.readme.com/an-example-filled-guide-to-swagger-3-2/)
+- (Still exploring) [Aspen API Tool](https://blog.treblle.com/meet-aspen-api-testing-tool/?ref=apisyouwonthate.com)
+- [API Insights](https://apiinsights.io/)
 
 
 ### Go
