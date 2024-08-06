@@ -23,8 +23,10 @@ It is a collection of concise write-ups on small things I learn day to day acros
   - [API](#api-openapi)
   - [Go](#go)
   - [C#](#c)
-  - [Nginx](#nginx)
   - [Dynamodb](#dynamodb)
+- [DevOps](#devops)
+  - [Grafana](#grafana)
+  - [Nginx](#nginx)
 
 ## General
 
@@ -177,6 +179,15 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
 
+### Dynamodb
+
+- [Full DynamoDB Guide](https://www.dynamodbguide.com/)
+
+## Devops
+
+### Grafana
+- [Grafana in your homelab](https://brooks.sh/2018/06/03/monitoring-your-home-lab-with-grafana-in-docker/)
+
 ### NGINX
 
 - [How to Set Up Nginx with HTTP/2 Support](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-16-04)
@@ -185,7 +196,3 @@ It is a collection of concise write-ups on small things I learn day to day acros
 - [Understanding Nginx Proxying](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 - [How to delete a Certbot SSL Certificate](https://medium.com/@mhagemann/correct-way-to-delete-a-certbot-ssl-certificate-e8ee123e6e01)
 - [Subdomain configuration](nginx/web-server-configuration.md)
-
-### Dynamodb
-
-- [Full DynamoDB Guide](https://www.dynamodbguide.com/)
